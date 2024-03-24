@@ -19,3 +19,12 @@ You can customize the story elements by modifying the lists in the `story_genera
 - `actions`: Add or remove actions the characters take to solve the problems.
 
 Feel free to get creative and make the stories even more diverse and interesting!
+Output:
+css
+Once upon a time...
+Diana found themselves in a remote village
+Contributors
+Your name
+Feel free to contribute by adding new features, fixing bugs, or improving the code in any way!
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
