@@ -1,30 +1,3 @@
-# Story Generator
+## Generate Random Stories With Lyra
 
-This Python script generates short stories by randomly selecting characters, settings, problems, and actions from predefined lists. It's a fun way to create imaginative narratives!
-
-## How to Use
-
-1. Make sure you have Python installed on your computer.
-2. Clone this repository to your local machine.
-3. Run the `story_generator.py` script using Python.
-4. Follow the on-screen instructions to generate a story.
-5. Enjoy your creative story!
-
-## Customize
-
-You can customize the story elements by modifying the lists in the `story_generator.py` file:
-- `characters`: Add or remove character names.
-- `settings`: Add or remove setting descriptions.
-- `problems`: Add or remove problems the characters face.
-- `actions`: Add or remove actions the characters take to solve the problems.
-
-Feel free to get creative and make the stories even more diverse and interesting!
-Output:
-css
-Once upon a time...
-Diana found themselves in a remote village
-Contributors
-Your name
-Feel free to contribute by adding new features, fixing bugs, or improving the code in any way!
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<img width="991" alt="image" src="https://github.com/krishvsoni/Lyra/assets/67964054/4df34961-5bd9-441c-b8f5-8f064fce9759">
